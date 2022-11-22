@@ -42,6 +42,7 @@
 #include "cyhal.h"
 #include "cybsp.h"
 #include "cy_retarget_io.h"
+#include "app_config.h"
 
 
 /*******************************************************************************
@@ -72,6 +73,7 @@ uint8_t uart_read_value;
 
 /* Timer object used for blinking the LED */
 cyhal_timer_t led_blink_timer;
+
 
 
 /*******************************************************************************

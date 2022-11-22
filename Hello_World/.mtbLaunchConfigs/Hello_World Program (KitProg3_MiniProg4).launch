@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="ilg.gnumcueclipse.debug.gdbjtag.openocd.launchConfigurationType">
-<stringAttribute key="com.cypress.studio.launch.owner.0" value="2b473b12-4629-4776-81b2-8ee4284fdbeb"/>
+<stringAttribute key="com.cypress.studio.launch.owner.0" value="ce2647ab-12b4-4d10-8108-11a1f1b46860"/>
 <stringAttribute key="com.cypress.studio.launch.mode" value="run"/>
 <booleanAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.doContinue" value="false"/>
 <booleanAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.doDebugInRam" value="false"/>
@@ -23,8 +23,8 @@
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.otherInitCommands" value=""/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.otherRunCommands" value="quit"/>
 <stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.openocd.secondResetType" value="run"/>
-<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${cy_prj_path:2b473b12-4629-4776-81b2-8ee4284fdbeb}/../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/svd/psoc6_02.svd"/>
-<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value="${cy_prj_path:2b473b12-4629-4776-81b2-8ee4284fdbeb}/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.hex"/>
+<stringAttribute key="ilg.gnumcueclipse.debug.gdbjtag.svdPath" value="${cy_prj_path:ce2647ab-12b4-4d10-8108-11a1f1b46860}/../mtb_shared/mtb-pdl-cat1/release-v3.0.0/devices/COMPONENT_CAT1A/svd/psoc6_02.svd"/>
+<stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageFileName" value="${cy_prj_path:ce2647ab-12b4-4d10-8108-11a1f1b46860}/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.hex"/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.imageOffset" value=""/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.ipAddress" value="localhost"/>
 <stringAttribute key="org.eclipse.cdt.debug.gdbjtag.core.jtagDevice" value="GNU MCU OpenOCD"/>
@@ -47,7 +47,7 @@
 <booleanAttribute key="org.eclipse.cdt.dsf.gdb.UPDATE_THREADLIST_ON_SUSPEND" value="false"/>
 <intAttribute key="org.eclipse.cdt.launch.ATTR_BUILD_BEFORE_LAUNCH_ATTR" value="2"/>
 <stringAttribute key="org.eclipse.cdt.launch.COREFILE_PATH" value=""/>
-<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="${cy_prj_path:2b473b12-4629-4776-81b2-8ee4284fdbeb}/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.hex"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="${cy_prj_path:ce2647ab-12b4-4d10-8108-11a1f1b46860}/build/APP_CY8CPROTO-062-4343W/Debug/mtb-example-hal-hello-world.hex"/>
 <stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="Hello_World"/>
 <booleanAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_AUTO_ATTR" value="true"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
