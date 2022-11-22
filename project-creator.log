@@ -1,0 +1,459 @@
+Loading the manifest data
+Loading super manfiest files from all sources
+Getting manifests from remote and/or local sources
+Processing system manifest 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading super manifest file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished loading super manifest files from all sources
+Finished download of file 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Starting to parse super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Finished parsing super manifest with URL 'https://modustoolbox.infineon.com/manifests/mtb-super-manifest/v2.X/mtb-super-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Downloading manifest file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Downloading manifest file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-ce-manifest/raw/v2.X/mtb-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-ce-manifest/raw/main/mtb-memfault-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/cce-app-manifest/raw/v2.X/cce-app-manifest-fv2.xml'
+Finished download of file 'https://github.com/edgeimpulse/edgeimpulse-ce-manifest/raw/main/edgeimpulse-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-ce-manifest/raw/main/mtb-golioth-ce-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bsp-manifest/raw/v2.X/mtb-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-bsp-manifest/raw/v2.X/mtb-bt-bsp-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-mw-manifest/raw/v2.X/mtb-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/Infineon/mtb-wifi-mw-manifest/raw/v2.X/mtb-wifi-mw-dependencies-manifest.xml'
+Finished download of file 'https://github.com/memfault/mtb-memfault-mw-manifest/raw/main/mtb-memfault-mw-manifest-fv2.xml'
+Finished download of file 'https://github.com/golioth/mtb-golioth-mw-manifest/raw/main/mtb-golioth-mw-manifest-fv2.xml'
+Finished loading the manifest data (2347 ms)
+Loading the device db
+Finished loading the device db (647 ms)
+INFO:directory '/Users/Dieter/Library/Application Support/Infineon_Technologies_AG/Infineon-Toolbox' does not exist
+INFO:Using the executable path for the tools directory.
+0 error(s), 0 warning(s)
+INFO:directory '/Users/Dieter/Library/Application Support/Infineon_Technologies_AG/Infineon-Toolbox' does not exist
+INFO:Using the executable path for the tools directory.
+INFO:directory '/Users/Dieter/Library/Application Support/Infineon_Technologies_AG/Infineon-Toolbox' does not exist
+INFO:Using the executable path for the tools directory.
+
+Summary: 
+
+BSP: CY8CPROTO-062-4343W
+Template Application(s): Hello World
+Application(s) Root Path: /Users/Dieter/Documents/GitHub/IOT_humidity_project
+
+Press "Create" to create the selected application(s).
+
+Collecting application data...
+
+Info: The following entered on the command line will create the exact same project as that created with the GUI tool:
+/Applications/ModusToolbox/tools_3.0/project-creator/project-creator-cli --board-id CY8CPROTO-062-4343W --board-uri https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W --board-commit latest-v4.X --app-id mtb-example-hal-hello-world --app-uri https://github.com/Infineon/mtb-example-hal-hello-world --app-commit latest-v4.X --cypress-tools /Applications/ModusToolbox/tools_3.0 --target-dir /Users/Dieter/Documents/GitHub/IOT_humidity_project --user-app-name Hello_World --use-modus-shell
+
+Starting application creation for '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World'.
+Acquiring the application source 'https://github.com/Infineon/mtb-example-hal-hello-world'.
+Acquired application source successfully.
+Loading the application.
+Loaded the application successfully.
+Processing project 'Hello_World'.
+Starting to commit changes to the filesystem and project 'mtb-example-hal-hello-world'.
+Writing mtb file for asset 'CY8CPROTO-062-4343W' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/deps'.
+Writing mtb file for asset 'cat1cm0p' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'core-lib' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'core-make' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'mtb-hal-cat1' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'mtb-pdl-cat1' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'recipe-make-cat1a' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'cmsis' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs'.
+Writing mtb file for asset 'retarget-io' to the folder '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/deps'.
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis config remote.origin.fetch 'refs/heads/*:refs/heads/*'
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis fetch --all --tags --force --quiet
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v3.0.0
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.3.0
+Cloning into 'release-v3.0.0'...
+Cloning into 'TARGET_CY8CPROTO-062-4343W'...
+done.
+Cloning into 'release-v1.3.0'...
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1 clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1 release-v3.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p release-v1.0.0
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W TARGET_CY8CPROTO-062-4343W
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io release-v1.3.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 checkout release-v3.0.0
+Cloning into 'release-v1.0.0'...
+Cloning into 'release-v2.2.0'...
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cat1cm0p/cat1cm0p release-v1.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W checkout release-v4.0.0
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1 clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1 release-v2.2.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Note: switching to 'release-v1.3.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at a61cd7c Upload retarget-io 1.3.0.25183
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 checkout release-v1.3.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Note: switching to 'release-v4.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at cef390f Upload TARGET_CY8CPROTO-062-4343W 4.0.0.29660
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W checkout release-v4.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Cloning into 'release-v1.3.1'...
+Note: switching to 'release-v1.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at b3d4b82 Upload cat1cm0p 1.0.0.148
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 checkout release-v1.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote set-url cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v3.0.2
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-lib/core-lib release-v1.3.1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url cypress https://github.com/Infineon/cat1cm0p
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote set-url cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+Cloning into 'release-v3.0.2'...
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url cypress https://github.com/Infineon/cat1cm0p
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/retarget-io
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_core-make/core-make release-v3.0.2
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/cat1cm0p
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote set-url --push cypress https://github.com/cypresssemiconductorco/TARGET_CY8CPROTO-062-4343W
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Note: switching to 'release-v1.3.1'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1c1cb8a Upload core-lib 1.3.1.29660
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 checkout release-v1.3.1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote set-url --push cypress https://github.com/Infineon/cat1cm0p
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/retarget-io/release-v1.3.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_retarget-io/retarget-io
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Note: switching to 'release-v3.0.2'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 36592d7 Upload core-make 3.0.2.4113
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/TARGET_CY8CPROTO-062-4343W remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_TARGET_CY8CPROTO-062-4343W/TARGET_CY8CPROTO-062-4343W
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_Infineon_cat1cm0p/cat1cm0p
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 checkout release-v3.0.2
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote set-url cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cat1cm0p/release-v1.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_Infineon_cat1cm0p/cat1cm0p
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote set-url cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-lib
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote set-url --push cypress https://github.com/cypresssemiconductorco/core-make
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-lib/release-v1.3.1 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-lib/core-lib
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/core-make/release-v3.0.2 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_core-make/core-make
+Note: switching to 'release-v2.2.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at c3e71c0 Upload mtb-hal-cat1 2.2.0.29808
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 checkout release-v2.2.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-hal-cat1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-hal-cat1/release-v2.2.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-hal-cat1/mtb-hal-cat1
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v2.0.0
+Cloning into 'release-v2.0.0'...
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a release-v2.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Success: git -C /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis fetch --all --tags --force --quiet
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis release-v5.8.0
+Cloning into 'release-v5.8.0'...
+Note: switching to 'release-v2.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 28d875a Upload recipe-make-cat1a 2.0.0.4056
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 checkout release-v2.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+done.
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis clone --origin cypress --no-checkout /Users/Dieter/.modustoolbox/git/cache/git/https___github.com_Infineon_cmsis/cmsis release-v5.8.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/recipe-make-cat1a
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/recipe-make-cat1a/release-v2.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_recipe-make-cat1a/recipe-make-cat1a
+Note: switching to 'release-v5.8.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at ce02f64 Upload cmsis 5.8.0.50
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 checkout release-v5.8.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote set-url cypress https://github.com/Infineon/cmsis
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote set-url cypress https://github.com/Infineon/cmsis
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote set-url --push cypress https://github.com/Infineon/cmsis
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote set-url --push cypress https://github.com/Infineon/cmsis
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_Infineon_cmsis/cmsis
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/cmsis/release-v5.8.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_Infineon_cmsis/cmsis
+Note: switching to 'release-v3.0.0'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at e851dc2 Upload mtb-pdl-cat1 3.0.0.19024
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 checkout release-v3.0.0
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote set-url --push cypress https://github.com/cypresssemiconductorco/mtb-pdl-cat1
+Starting: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+Success: git -C /Users/Dieter/Documents/GitHub/IOT_humidity_project/mtb_shared/mtb-pdl-cat1/release-v3.0.0 remote add cypress-offline /Users/Dieter/.modustoolbox/offline/git/https___github.com_cypresssemiconductorco_mtb-pdl-cat1/mtb-pdl-cat1
+Requested to change the active target to 'APP_CY8CPROTO-062-4343W'.
+Removed the file '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/deps/TARGET_CY8CPROTO-062-4343W.mtb'.
+Writing the file '/Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/libs/app.mk'.
+Successfully committed changes to the project 'mtb-example-hal-hello-world'.
+Project "Hello_World" created successfully.
+Successfully created "Hello_World" application.
+==============================================================================
+= Export "Hello_World" application to Eclipse IDE for ModusToolbox™ =
+==============================================================================
+make eclipse CY_IDE_PRJNAME=Hello_World CY_MAKE_IDE=eclipse CY_MAKE_IDE_VERSION=3.0 CY_TOOLS_PATHS=/Applications/ModusToolbox/tools_3.0 MTB_MAKE_ECLIPSE_FORCE_REGENERATE_PROJECT=1
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+Searching installed tools in progress...
+Searching installed tools complete
+
+
+
+
+Prebuild operations complete
+
+Auto-discovery in progress...
+Auto-discovery complete
+Commencing build operations...
+
+Tools Directory: /Applications/ModusToolbox/tools_3.0
+
+Initializing build: mtb-example-hal-hello-world Debug APP_CY8CPROTO-062-4343W GCC_ARM
+
+Constructing build rules...
+Build rules construction complete
+
+==============================================================================
+= Generating IDE files =
+==============================================================================
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Attach (JLink).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Attach (KitProg3_MiniProg4).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Debug (JLink).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Debug (KitProg3_MiniProg4).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Erase (JLink).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Erase (KitProg3_MiniProg4).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Program (JLink).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.mtbLaunchConfigs/Hello_World Program (KitProg3_MiniProg4).launch
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.project
+Generated /Users/Dieter/Documents/GitHub/IOT_humidity_project/Hello_World/.cproject
+Instructions:
+1. Open Eclipse IDE for ModusToolbox
+2. Select 'Import Existing Application In-Place' from the QuickPanel
+3. Browse to the application root directory
+  
+The application "Hello_World" was successfully exported to Eclipse IDE for ModusToolbox™.
+0 error(s), 0 warning(s)
+
+Summary:
+
+Successfully created and exported "Hello_World" application.
