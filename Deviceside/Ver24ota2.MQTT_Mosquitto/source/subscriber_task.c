@@ -44,6 +44,7 @@
 
 #include "cyhal.h"
 #include "cybsp.h"
+#include "cy_syspm.h"
 #include "string.h"
 #include "FreeRTOS.h"
 #include "stdlib.h"
@@ -168,7 +169,8 @@ void subscriber_task(void *pvParameters)
 						printf("Device turned ");
 						printf("%s", !subscriber_q_data.data ? "on" : "off");
 						printf("\n");
-
+						printf("entering deep sleep-mode!\n");
+						Cy_SysPm_DeepSleep(CY_SYSPM_WAIT_FOR_INTERRUPT);
 						/* Update the current device state extern variable. */
 						current_device_state = subscriber_q_data.data;
                     }
@@ -261,8 +263,7 @@ void mqtt_subscription_callback(cy_mqtt_publish_info_t *received_msg_info)
 		int intcheck = atoi(check);
 	    //printf("read humidity werkt\n");
 		if(intcheck){
-			printf("The current humidity is: %d", intcheck);
-			printf("%\n");
+			printf("The current humidity is: %d\n", intcheck);
 			humidity = intcheck;
 			if(!control){
 				if(humidity <= treshold){
@@ -299,8 +300,8 @@ void mqtt_subscription_callback(cy_mqtt_publish_info_t *received_msg_info)
 		memcpy(check , received_msg_info->payload, received_msg_info->payload_len);
 		int intcheck = atoi(check);
 		if(intcheck){
-			treshold = intcheck;
 			printf("treshold set to: %d\n", treshold);
+			treshold = intcheck;
 			if(!control){
 				if(humidity <= treshold){
 					subscriber_q_data.data = DEVICE_OFF_STATE;
@@ -309,7 +310,6 @@ void mqtt_subscription_callback(cy_mqtt_publish_info_t *received_msg_info)
 					subscriber_q_data.data = DEVICE_ON_STATE;
 				}
 			}else{subscriber_q_data.data = current_device_state;}
-			return;
 		}
 		else{
 			printf("  Subscriber: Received MQTT message not in valid format!\n");
