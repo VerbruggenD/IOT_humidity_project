@@ -301,8 +301,8 @@ void mqtt_subscription_callback(cy_mqtt_publish_info_t *received_msg_info)
 		memcpy(check , received_msg_info->payload, received_msg_info->payload_len);
 		int intcheck = atoi(check);
 		if(intcheck){
-			printf("treshold set to: %d\n", treshold);
 			treshold = intcheck;
+			printf("treshold set to: %d\n", treshold);
 			if(!control){
 				if(humidity <= treshold){
 					subscriber_q_data.data = DEVICE_OFF_STATE;
