@@ -3,7 +3,7 @@
 As an actuator we chose to use a dehumidifier, this device is internally controlled by a relay that is connected to the switch of the watercontainer so that it automatically switches off when the container is full or when the container is not present. We added a mosfet in series with the switch so that the switch can override te mosfet. The mosfet is directly controlled by a data pin on the PSOC6 microcontroller.
 
 ## Project Flowchart
-![Project overview in a Flowchart](https://github.com/VerbruggenD/IOT_humidity_project/blob/main/Deviceside/IOT_project_overview.png)
+![Project overview in a Flowchart](IOT_project_overview.png)
 
 ## MQTT and different topics
 We used MQTT to communicate between our devices, in total we used 4 different topics to post different information:
