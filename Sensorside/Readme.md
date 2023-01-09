@@ -25,5 +25,8 @@ We used MQTT to communicate between our devices, in total we used 4 different to
 ## Libraries used:
 ![Libraries used in this project](Images/Libraries_used.png)
 
+## Implemetation
+So the sensor uses a one wire interface, this is implemented by the making the data pin biderectional and have it at pullup when receiving data and driving it when sending data. The timing of the protocol is done with `cyhal_delay()` with other interrupts and freertos task switches dissabled.
+
 ## Low power implementation
 For the low power implementation we tried some different methods, even tried offloading the wifi connection and using an mqtt filter for generating an interrupt for returning from deepsleep. After all this trail and a lot of error, we came to the conclusion that just using sleep is enough and the best implementation for practical use. The interrupts from wifi, timer and hardware button can wake up the PSOC6 from sleep.
