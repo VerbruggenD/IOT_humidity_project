@@ -169,8 +169,9 @@ void subscriber_task(void *pvParameters)
 						printf("Device turned ");
 						printf("%s", !subscriber_q_data.data ? "on" : "off");
 						printf("\n");
-						printf("entering deep sleep-mode!\n");
-						Cy_SysPm_DeepSleep(CY_SYSPM_WAIT_FOR_INTERRUPT);
+						printf("entering sleep-mode!\n");
+						cyhal_syspm_sleep();
+
 						/* Update the current device state extern variable. */
 						current_device_state = subscriber_q_data.data;
                     }

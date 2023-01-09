@@ -52,7 +52,7 @@
 /***************** MQTT CLIENT CONNECTION CONFIGURATION MACROS *****************/
 /* MQTT Broker/Server address and port used for the MQTT connection. */
 //#define MQTT_BROKER_ADDRESS               "192.168.1.5"
-#define MQTT_BROKER_ADDRESS 				"ac3898ba95504dbeb98f264d72fe6102.s2.eu.hivemq.cloud"
+#define MQTT_BROKER_ADDRESS 				"52ebaad94ea4490ab48437682693a8a4.s2.eu.hivemq.cloud"
 
 #define MQTT_PORT                         	8883
 
